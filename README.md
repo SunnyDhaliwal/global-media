@@ -17,6 +17,7 @@ Some points that were noted:
 - Discount is only applied at the last stage of the checkout
 - Shipping is manditorily charged for a UK address however this is out of scope for the test
 - A cart total of $115.00 was acheived however the brief stated $116.00 I couldnt get to this number
+- I added a couple of reusable commands to the commands.js file in order to clean up the test
 
 The test is written in cypress so may require installation before running.
 
